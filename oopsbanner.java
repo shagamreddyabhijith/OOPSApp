@@ -1,4 +1,4 @@
-public class oopsbannerapp {
+public class oopsbanner {
     // uc6
     public static String[] getOPattern() {
         return new String[] {
